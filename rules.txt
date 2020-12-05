@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! title: rules of Coelacanthus
+! Expires: 2 days
+! Homepage: https://github.com/ayalhw/ublock-rules
+
+! 2020-11-29 https://www.zhihu.com 知乎推荐侧边栏
+www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn
+www.zhihu.com##li.Tabs-item--noMeta.AppHeader-Tab.Tabs-item:nth-of-type(2)
+
+! 2020-12-01 https://www.zhihu.com 知乎登录框
+||static.zhihu.com/heifetz/main.signflow.*.js$script,domain=www.zhihu.com

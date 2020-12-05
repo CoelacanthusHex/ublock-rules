@@ -1,1 +1,1 @@
-# ublock-rules
+# ublock-rules of Coelacanthus
